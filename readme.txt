@@ -1,7 +1,1 @@
-new changes coming soon........
-
-
-
-test
-
-her er test.
+Har fjerna alt og lagt inn nytt innhold.
